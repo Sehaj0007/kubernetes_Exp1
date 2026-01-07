@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sehaj07/myapp:latest   # will be updated by CI
+        image: sehaj07/myapp:02f9a5e2be97173ab43860c153b200411d295f11
         ports:
         - containerPort: 3000
