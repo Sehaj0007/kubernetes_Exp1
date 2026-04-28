@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sehaj07/myapp:1e864e6ba6550826df8a842622a0a1fd766ecade
+        image: sehaj07/myapp:c571120278222a1a33b6cb5cd87c454c236aa00a
         ports:
         - containerPort: 3000
